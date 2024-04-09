@@ -1,9 +1,9 @@
 # Introduction
 
 ## Latest projects
-- [Mesh + RHSI : Example Online Boutique](https://github.com/SanjeevKGupta/gcp-microservices-demo/mesh/rhsi)
+- [Mesh + RHSI : Example Online Boutique - Services across ROKS, AKS, GKE and EKS](https://github.com/SanjeevKGupta/gcp-microservices-demo/mesh/rhsi)
+- [OH + Edge Cluster : Open Horizon and KubeArmor - Runtime Workload Security at the Edge](https://github.com/SanjeevKGupta/example-kubearmor)
 - [Mesh + RHSI : Work in progress : Example QOTD 5.1.0](https://github.com/SanjeevKGupta/example-qotd)
-- [OH + Edge Cluster : Work in progress : Open Horizon and KubeArmor](https://github.com/SanjeevKGupta/example-kubearmor)
 
 ## Hybrid Cloud Mesh
 
