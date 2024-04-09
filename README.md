@@ -1,7 +1,7 @@
 # Introduction
 
 ## Latest projects
-- [Mesh + RHSI : Work in progress : Example Online Boutique](https://github.com/SanjeevKGupta/gcp-microservices-demo)
+- [Mesh + RHSI : Example Online Boutique](https://github.com/SanjeevKGupta/gcp-microservices-demo/mesh/rhsi)
 - [Mesh + RHSI : Work in progress : Example QOTD 5.1.0](https://github.com/SanjeevKGupta/example-qotd)
 - [OH + Edge Cluster : Work in progress : Open Horizon and KubeArmor](https://github.com/SanjeevKGupta/example-kubearmor)
 
